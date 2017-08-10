@@ -4,9 +4,7 @@
 
 дата рождения: 08.06.1974
 
-адрес: г.Воронеж, ул.Лизюкова, д.49 кв.5
-
-тел: 8-903-653-62-90
+адрес: г.Воронеж, ул.Лизюкова
 
 e-mail: Ivana_2004@mail.ru
 
@@ -23,9 +21,9 @@ e-mail: Ivana_2004@mail.ru
 
 Параллельно с основной работой изучал другие языки и парадигмы программирования: ООП (Java, C#), ФП (Haskell, Scheme, F#), программирование микроконтроллеров (Asm, С), математическое моделирование (Matlab)  и т.п. Достигнутые результаты:
 
-**Java:** реализовал интерпретатор собственного функционального лиспоподобного  языка Liscript с GUI-REPL  https://github.com/Ivana-/Liscript-GUI-Java-Swing ,  REPL ботов-интерпретаторов  в популярных мессенджерах (IRC, Telegram, Slack, Gitter - https://liscript.herokuapp.com/), сделал доклад про создание и основные концепции языка  https://youtu.be/H1J5xVFDns0
+**Java:** реализовал интерпретатор собственного функционального лиспоподобного  языка Liscript с GUI-REPL  https://github.com/Ivana-/Liscript-GUI-Java-Swing , сделал доклад про создание и основные концепции языка  https://youtu.be/H1J5xVFDns0
 
-**WEB:** разработал web-интерфейс интерпретатора Liscript  : онлайн REPL. Фронтенд – Javascript/ jquery, бэкенд – Java/Ratpack. Адрес страницы https://liscript.herokuapp.com/repl
+**WEB:** разработал web-интерфейс интерпретатора Liscript  : онлайн REPL, а также REPL ботов-интерпретаторов  в популярных мессенджерах (IRC, Telegram, Slack, Gitter. Фронтенд – Javascript/ jquery, бэкенд – Java/Ratpack). Адрес страницы https://liscript.herokuapp.com/
 
 **Haskell:**  написал альтернативную реализацию  интерпретатора Liscript  https://github.com/Ivana-/Liscript  и прочие пет-проекты , с отличием закончил 2 курса на Stepic, достиг уровня 2 kyu на сайте олимпиадных задач Codewars  https://www.codewars.com/users/Ivana 
 
