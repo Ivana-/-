@@ -23,7 +23,7 @@ e-mail: Ivana_2004@mail.ru
 
 Параллельно с основной работой изучал другие языки и парадигмы программирования: ООП (Java, C#), ФП (Haskell, Scheme, F#), программирование микроконтроллеров (Asm, С), математическое моделирование (Matlab)  и т.п. Примеры проектов:
 
-**Clojure:** несколько последних проектов на гитхабе - https://github.com/Ivana-?tab=repositories Если кто-то будет смотреть код - в рабочих проектах умею соблюдать кодстайл, и даже писать комментарии.
+**Clojure:** несколько последних проектов на гитхабе - https://github.com/Ivana-?tab=repositories Если кто-то будет смотреть код - в рабочих проектах умею соблюдать кодстайл, и даже писать комментарии. Из интересного могут отметить REPL-отладчик с точками останова https://github.com/Ivana-/bb-debug , решение проблемы переполнения стека в Clojure https://github.com/Ivana-/naso , универсальный фронтенд к FHIR-серверу, реализующему обработку информации в стандарте FHIR (Fast Healthcare Interoperability Resources) https://github.com/Ivana-/fhir-face , пара задач математического моделирования с графическим интерфейсом https://github.com/Ivana-/star-dance , https://github.com/Ivana-/relay-control-demo , и т.д.
 
 **Java:** реализовал интерпретатор собственного функционального лиспоподобного  языка Liscript с GUI-REPL  https://github.com/Ivana-/Liscript-GUI-Java-Swing , сделал доклад про создание и основные концепции языка  https://youtu.be/H1J5xVFDns0
 
